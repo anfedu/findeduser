@@ -1,4 +1,4 @@
-# This repository is contains server with nodejs and client with react js
+# This repository is user finder apps, server with nodejs and client with reactjs
 
 - back end deploy on heroku
 - front end deploy on netlify
